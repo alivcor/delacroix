@@ -1,0 +1,121 @@
+{
+  "movements": [
+    {
+      "name": "Renaissance",
+      "period_start": 1400,
+      "period_end": 1600,
+      "regions": ["Italy", "Northern Europe"],
+      "characteristics": ["humanism", "perspective", "realism", "classical themes"],
+      "key_artists": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Botticelli", "Titian"],
+      "keywords": ["renaissance", "rebirth", "classical", "humanism"]
+    },
+    {
+      "name": "Baroque",
+      "period_start": 1600,
+      "period_end": 1750,
+      "regions": ["Italy", "Netherlands", "Spain", "France"],
+      "characteristics": ["drama", "movement", "tension", "grandeur", "rich color", "chiaroscuro"],
+      "key_artists": ["Caravaggio", "Rembrandt", "Vermeer", "Rubens", "Velázquez"],
+      "keywords": ["baroque", "dramatic", "ornate", "emotional"]
+    },
+    {
+      "name": "Rococo",
+      "period_start": 1700,
+      "period_end": 1780,
+      "regions": ["France", "Italy", "Germany"],
+      "characteristics": ["ornate", "decorative", "light", "playful", "pastel colors"],
+      "key_artists": ["Watteau", "Boucher", "Fragonard", "Tiepolo"],
+      "keywords": ["rococo", "decorative", "elegant", "frivolous"]
+    },
+    {
+      "name": "Neoclassicism",
+      "period_start": 1750,
+      "period_end": 1850,
+      "regions": ["France", "Italy", "Britain"],
+      "characteristics": ["classical themes", "order", "symmetry", "restraint"],
+      "key_artists": ["Jacques-Louis David", "Ingres"],
+      "keywords": ["neoclassical", "classical", "order", "rational"]
+    },
+    {
+      "name": "Romanticism",
+      "period_start": 1780,
+      "period_end": 1850,
+      "regions": ["Britain", "France", "Germany", "Spain"],
+      "characteristics": ["emotion", "nature", "individualism", "imagination", "exotic"],
+      "key_artists": ["Turner", "Delacroix", "Friedrich", "Goya"],
+      "keywords": ["romanticism", "romantic", "emotion", "nature", "sublime"]
+    },
+    {
+      "name": "Realism",
+      "period_start": 1840,
+      "period_end": 1880,
+      "regions": ["France"],
+      "characteristics": ["everyday life", "working class", "objective", "unidealized"],
+      "key_artists": ["Courbet", "Millet", "Daumier"],
+      "keywords": ["realism", "realistic", "everyday", "social"]
+    },
+    {
+      "name": "Impressionism",
+      "period_start": 1860,
+      "period_end": 1890,
+      "regions": ["France"],
+      "characteristics": ["light", "color", "visible brushstrokes", "ordinary subject matter", "movement"],
+      "key_artists": ["Monet", "Renoir", "Degas", "Pissarro", "Manet"],
+      "keywords": ["impressionism", "impressionist", "light", "color", "plein air"]
+    },
+    {
+      "name": "Post-Impressionism",
+      "period_start": 1880,
+      "period_end": 1910,
+      "regions": ["France", "Netherlands"],
+      "characteristics": ["symbolic content", "formal order", "structure", "expressive color"],
+      "key_artists": ["Van Gogh", "Cézanne", "Gauguin", "Seurat"],
+      "keywords": ["post-impressionism", "expressive", "symbolic"]
+    },
+    {
+      "name": "Symbolism",
+      "period_start": 1880,
+      "period_end": 1910,
+      "regions": ["France", "Belgium", "Austria"],
+      "characteristics": ["dreams", "imagination", "mysticism", "decorative"],
+      "key_artists": ["Klimt", "Munch", "Moreau"],
+      "keywords": ["symbolism", "symbolic", "mystical", "dreamlike"]
+    },
+    {
+      "name": "Fauvism",
+      "period_start": 1900,
+      "period_end": 1910,
+      "regions": ["France"],
+      "characteristics": ["wild color", "simplified forms", "bold brushwork"],
+      "key_artists": ["Matisse", "Derain"],
+      "keywords": ["fauvism", "fauvist", "wild beasts", "color"]
+    },
+    {
+      "name": "Expressionism",
+      "period_start": 1905,
+      "period_end": 1925,
+      "regions": ["Germany", "Austria"],
+      "characteristics": ["distortion", "exaggeration", "emotion", "subjective"],
+      "key_artists": ["Munch", "Kandinsky", "Kirchner", "Schiele"],
+      "keywords": ["expressionism", "expressionist", "emotional", "distorted"]
+    },
+    {
+      "name": "Cubism",
+      "period_start": 1907,
+      "period_end": 1920,
+      "regions": ["France", "Spain"],
+      "characteristics": ["geometric forms", "multiple viewpoints", "fragmentation"],
+      "key_artists": ["Picasso", "Braque"],
+      "keywords": ["cubism", "cubist", "geometric", "fragmented"]
+    },
+    {
+      "name": "Surrealism",
+      "period_start": 1920,
+      "period_end": 1950,
+      "regions": ["France", "Spain", "Belgium"],
+      "characteristics": ["unconscious", "dreams", "unexpected juxtapositions", "automatism"],
+      "key_artists": ["Dalí", "Magritte", "Miró"],
+      "keywords": ["surrealism", "surrealist", "dreamlike", "unconscious"]
+    }
+  ]
+}

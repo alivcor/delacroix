@@ -1,0 +1,548 @@
+{
+  "paintings": [
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["portrait", "enigmatic", "smile", "sfumato"]
+    },
+    {
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "year": 1498,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["religious", "biblical", "perspective", "drama"]
+    },
+    {
+      "title": "The Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["night", "stars", "swirling", "expressive", "landscape"]
+    },
+    {
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["flowers", "still life", "yellow", "vibrant"]
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "year": 1916,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["garden", "water", "reflection", "light", "series"]
+    },
+    {
+      "title": "Impression Sunrise",
+      "artist": "Claude Monet",
+      "year": 1872,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["harbor", "sunrise", "atmospheric", "gave name to movement"]
+    },
+    {
+      "title": "The Night Watch",
+      "artist": "Rembrandt van Rijn",
+      "year": 1642,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["group portrait", "militia", "dramatic lighting", "movement"]
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "year": 1665,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["portrait", "tronie", "pearl", "mysterious", "light"]
+    },
+    {
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "year": 1485,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["mythological", "venus", "goddess", "beauty", "shell"]
+    },
+    {
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "movement": "Expressionism",
+      "type": "painting",
+      "keywords": ["anxiety", "existential", "emotion", "iconic"]
+    },
+    {
+      "title": "Guernica",
+      "artist": "Pablo Picasso",
+      "year": 1937,
+      "movement": "Cubism",
+      "type": "painting",
+      "keywords": ["war", "political", "monochrome", "suffering", "anti-war"]
+    },
+    {
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "year": 1931,
+      "movement": "Surrealism",
+      "type": "painting",
+      "keywords": ["melting clocks", "time", "dreamlike", "desert"]
+    },
+    {
+      "title": "Liberty Leading the People",
+      "artist": "Eugène Delacroix",
+      "year": 1830,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["revolution", "french", "liberty", "political", "dramatic"]
+    },
+    {
+      "title": "The Third of May 1808",
+      "artist": "Francisco Goya",
+      "year": 1814,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["war", "execution", "political", "dramatic", "spanish"]
+    },
+    {
+      "title": "Las Meninas",
+      "artist": "Diego Velázquez",
+      "year": 1656,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["court", "portrait", "complex", "perspective", "spanish"]
+    },
+    {
+      "title": "The Kiss",
+      "artist": "Gustav Klimt",
+      "year": 1908,
+      "movement": "Symbolism",
+      "type": "painting",
+      "keywords": ["love", "gold", "decorative", "embrace", "art nouveau"]
+    },
+    {
+      "title": "American Gothic",
+      "artist": "Grant Wood",
+      "year": 1930,
+      "movement": "Regionalism",
+      "type": "painting",
+      "keywords": ["american", "rural", "farmers", "pitchfork", "iconic"]
+    },
+    {
+      "title": "Nighthawks",
+      "artist": "Edward Hopper",
+      "year": 1942,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["diner", "night", "urban", "isolation", "american"]
+    },
+    {
+      "title": "The Garden of Earthly Delights",
+      "artist": "Hieronymus Bosch",
+      "year": 1510,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["triptych", "paradise", "hell", "fantastical", "detailed"]
+    },
+    {
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "year": 1511,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["philosophy", "classical", "perspective", "fresco", "vatican"]
+    },
+    {
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "year": 1512,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["sistine chapel", "fresco", "god", "adam", "iconic"]
+    },
+    {
+      "title": "Primavera",
+      "artist": "Sandro Botticelli",
+      "year": 1482,
+      "movement": "Renaissance",
+      "type": "painting",
+      "keywords": ["spring", "mythological", "venus", "garden", "allegory"]
+    },
+    {
+      "title": "The Arnolfini Portrait",
+      "artist": "Jan van Eyck",
+      "year": 1434,
+      "movement": "Northern Renaissance",
+      "type": "painting",
+      "keywords": ["portrait", "marriage", "mirror", "symbolism", "flemish"]
+    },
+    {
+      "title": "The Hunters in the Snow",
+      "artist": "Pieter Bruegel the Elder",
+      "year": 1565,
+      "movement": "Northern Renaissance",
+      "type": "painting",
+      "keywords": ["winter", "landscape", "peasants", "hunting", "flemish"]
+    },
+    {
+      "title": "The Descent from the Cross",
+      "artist": "Peter Paul Rubens",
+      "year": 1614,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["religious", "dramatic", "christ", "flemish", "altarpiece"]
+    },
+    {
+      "title": "The Milkmaid",
+      "artist": "Johannes Vermeer",
+      "year": 1658,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["domestic", "light", "dutch", "genre", "kitchen"]
+    },
+    {
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt van Rijn",
+      "year": 1632,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["group portrait", "medical", "science", "dutch", "dramatic"]
+    },
+    {
+      "title": "Self-Portrait with Two Circles",
+      "artist": "Rembrandt van Rijn",
+      "year": 1665,
+      "movement": "Baroque",
+      "type": "painting",
+      "keywords": ["self-portrait", "introspective", "dutch", "aging"]
+    },
+    {
+      "title": "The Swing",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1767,
+      "movement": "Rococo",
+      "type": "painting",
+      "keywords": ["playful", "romantic", "garden", "french", "frivolous"]
+    },
+    {
+      "title": "The Raft of the Medusa",
+      "artist": "Théodore Géricault",
+      "year": 1819,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["shipwreck", "tragedy", "dramatic", "french", "political"]
+    },
+    {
+      "title": "Wanderer above the Sea of Fog",
+      "artist": "Caspar David Friedrich",
+      "year": 1818,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["landscape", "sublime", "german", "contemplation", "nature"]
+    },
+    {
+      "title": "The Fighting Temeraire",
+      "artist": "J.M.W. Turner",
+      "year": 1839,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["ship", "sunset", "british", "industrial", "atmospheric"]
+    },
+    {
+      "title": "Rain, Steam and Speed",
+      "artist": "J.M.W. Turner",
+      "year": 1844,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["train", "industrial", "atmospheric", "british", "modern"]
+    },
+    {
+      "title": "The Hay Wain",
+      "artist": "John Constable",
+      "year": 1821,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["landscape", "rural", "british", "countryside", "naturalistic"]
+    },
+    {
+      "title": "Ophelia",
+      "artist": "John Everett Millais",
+      "year": 1852,
+      "movement": "Pre-Raphaelite",
+      "type": "painting",
+      "keywords": ["shakespeare", "tragic", "nature", "british", "detailed"]
+    },
+    {
+      "title": "The Gleaners",
+      "artist": "Jean-François Millet",
+      "year": 1857,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["peasants", "labor", "rural", "french", "social"]
+    },
+    {
+      "title": "The Stone Breakers",
+      "artist": "Gustave Courbet",
+      "year": 1849,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["labor", "working class", "french", "social", "destroyed"]
+    },
+    {
+      "title": "Olympia",
+      "artist": "Édouard Manet",
+      "year": 1863,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["nude", "controversial", "modern", "french", "gaze"]
+    },
+    {
+      "title": "Luncheon on the Grass",
+      "artist": "Édouard Manet",
+      "year": 1863,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["nude", "picnic", "controversial", "french", "modern"]
+    },
+    {
+      "title": "A Bar at the Folies-Bergère",
+      "artist": "Édouard Manet",
+      "year": 1882,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["bar", "mirror", "modern life", "french", "reflection"]
+    },
+    {
+      "title": "Bal du moulin de la Galette",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["dance", "party", "light", "french", "joyful"]
+    },
+    {
+      "title": "Luncheon of the Boating Party",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1881,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["leisure", "friends", "light", "french", "social"]
+    },
+    {
+      "title": "The Dance Class",
+      "artist": "Edgar Degas",
+      "year": 1874,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["ballet", "dancers", "rehearsal", "french", "movement"]
+    },
+    {
+      "title": "L'Absinthe",
+      "artist": "Edgar Degas",
+      "year": 1876,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["cafe", "isolation", "modern life", "french", "melancholy"]
+    },
+    {
+      "title": "Rouen Cathedral Series",
+      "artist": "Claude Monet",
+      "year": 1894,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["cathedral", "light", "series", "french", "atmospheric"]
+    },
+    {
+      "title": "Haystacks",
+      "artist": "Claude Monet",
+      "year": 1891,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["rural", "light", "series", "french", "seasons"]
+    },
+    {
+      "title": "Woman with a Parasol",
+      "artist": "Claude Monet",
+      "year": 1875,
+      "movement": "Impressionism",
+      "type": "painting",
+      "keywords": ["portrait", "outdoor", "light", "french", "wife"]
+    },
+    {
+      "title": "The Card Players",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["peasants", "cards", "geometric", "french", "series"]
+    },
+    {
+      "title": "Mont Sainte-Victoire",
+      "artist": "Paul Cézanne",
+      "year": 1887,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["landscape", "mountain", "geometric", "french", "series"]
+    },
+    {
+      "title": "The Bathers",
+      "artist": "Paul Cézanne",
+      "year": 1906,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["nudes", "landscape", "geometric", "french", "monumental"]
+    },
+    {
+      "title": "The Potato Eaters",
+      "artist": "Vincent van Gogh",
+      "year": 1885,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["peasants", "dark", "dutch", "social", "early work"]
+    },
+    {
+      "title": "Bedroom in Arles",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["interior", "bedroom", "perspective", "french", "personal"]
+    },
+    {
+      "title": "Irises",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["flowers", "garden", "asylum", "french", "vibrant"]
+    },
+    {
+      "title": "Café Terrace at Night",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["night", "cafe", "stars", "french", "atmospheric"]
+    },
+    {
+      "title": "Vision After the Sermon",
+      "artist": "Paul Gauguin",
+      "year": 1888,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["religious", "symbolic", "flat colors", "french", "breton"]
+    },
+    {
+      "title": "Where Do We Come From? What Are We? Where Are We Going?",
+      "artist": "Paul Gauguin",
+      "year": 1897,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["tahiti", "philosophical", "symbolic", "french", "monumental"]
+    },
+    {
+      "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+      "artist": "Georges Seurat",
+      "year": 1886,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["pointillism", "park", "leisure", "french", "scientific"]
+    },
+    {
+      "title": "The Circus",
+      "artist": "Georges Seurat",
+      "year": 1891,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["circus", "pointillism", "movement", "french", "unfinished"]
+    },
+    {
+      "title": "At the Moulin Rouge",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1895,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["nightlife", "cabaret", "french", "modern life", "bohemian"]
+    },
+    {
+      "title": "The Sleeping Gypsy",
+      "artist": "Henri Rousseau",
+      "year": 1897,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["naive", "dreamlike", "lion", "french", "mysterious"]
+    },
+    {
+      "title": "The Snake Charmer",
+      "artist": "Henri Rousseau",
+      "year": 1907,
+      "movement": "Post-Impressionism",
+      "type": "painting",
+      "keywords": ["jungle", "exotic", "naive", "french", "mysterious"]
+    },
+    {
+      "title": "The Son of Man",
+      "artist": "René Magritte",
+      "year": 1964,
+      "movement": "Surrealism",
+      "type": "painting",
+      "keywords": ["apple", "bowler hat", "mysterious", "belgian", "iconic"]
+    },
+    {
+      "title": "The Treachery of Images",
+      "artist": "René Magritte",
+      "year": 1929,
+      "movement": "Surrealism",
+      "type": "painting",
+      "keywords": ["pipe", "text", "conceptual", "belgian", "philosophical"]
+    },
+    {
+      "title": "The Elephants",
+      "artist": "Salvador Dalí",
+      "year": 1948,
+      "movement": "Surrealism",
+      "type": "painting",
+      "keywords": ["elephants", "long legs", "dreamlike", "spanish", "symbolic"]
+    },
+    {
+      "title": "Christina's World",
+      "artist": "Andrew Wyeth",
+      "year": 1948,
+      "movement": "Realism",
+      "type": "painting",
+      "keywords": ["rural", "american", "isolation", "landscape", "poignant"]
+    },
+    {
+      "title": "The Great Wave off Kanagawa",
+      "artist": "Katsushika Hokusai",
+      "year": 1831,
+      "movement": "Ukiyo-e",
+      "type": "painting",
+      "keywords": ["wave", "mount fuji", "japanese", "woodblock", "iconic"]
+    },
+    {
+      "title": "Saturn Devouring His Son",
+      "artist": "Francisco Goya",
+      "year": 1823,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["dark", "mythology", "horror", "spanish", "black paintings"]
+    },
+    {
+      "title": "The Naked Maja",
+      "artist": "Francisco Goya",
+      "year": 1800,
+      "movement": "Romanticism",
+      "type": "painting",
+      "keywords": ["nude", "controversial", "spanish", "sensual", "gaze"]
+    }
+  ]
+}

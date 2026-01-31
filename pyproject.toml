@@ -1,0 +1,30 @@
+[project]
+name = "delacroix"
+version = "0.1.0"
+description = "Harvests free museum art and crops for Samsung Frame TVs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Delacroix Contributors"}
+]
+dependencies = [
+  "requests>=2.31.0",
+  "Pillow>=10.0.0",
+]
+
+[project.scripts]
+delacroix = "delacroix.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
