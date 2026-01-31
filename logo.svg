@@ -1,0 +1,13 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="800" height="200" fill="#000000"/>
+  
+  <!-- DELACROIX in elegant serif -->
+  <text x="400" y="130" 
+        font-family="Didot, 'Bodoni MT', 'Playfair Display', Georgia, serif" 
+        font-size="90" 
+        font-weight="400"
+        letter-spacing="18"
+        fill="#ffffff" 
+        text-anchor="middle">DELACROIX</text>
+</svg>

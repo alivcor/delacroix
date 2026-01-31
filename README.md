@@ -1,4 +1,6 @@
-# Delacroix
+<p align="center">
+  <img src="logo.svg" alt="Delacroix" width="600"/>
+</p>
 
 Delacroix pulls free, openly licensed artwork from museum platforms, downloads high-quality images, and crops them to a Samsung Frame TV friendly aspect ratio (default 16:9). Vertical artworks are skipped.
 
